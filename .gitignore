@@ -1,0 +1,84 @@
+
+# Java / Maven build output
+backend/target/
+**/target/
+
+# React / Node dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Local Spring configuration overrides
+application-local.properties
+application-local.yml
+application-local.yaml
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local Ollama model files (if any)
+*.gguf
+
+# Local application configuration containing credentials
+backend/src/main/resources/application.properties
+
+# Build output and dependencies
+backend/target/
+frontend/node_modules/
+frontend/dist/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# IDE and operating system files
+.vscode/
+.idea/
+*.log
+Thumbs.db
+.DS_Store
+
+
+# Keep local credentials private
+backend/src/main/resources/application.properties
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Java build output
+backend/target/
+**/target/
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# IDE and operating system files
+.vscode/
+.idea/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
