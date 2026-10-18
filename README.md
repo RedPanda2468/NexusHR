@@ -14,7 +14,7 @@ The project combines a **Spring Boot REST API**, a **React and TypeScript fronte
 
 <!-- Replace this placeholder with: ![NexusHR Dashboard](assets/dashboard.png) -->
 
-**[ Add Dashboard Screenshot Here ]**
+**assets/dashboard.png**
 
 ### 2. Employee Management
 
