@@ -20,31 +20,31 @@ The project combines a **Spring Boot REST API**, a **React and TypeScript fronte
 
 <!-- Replace this placeholder with: ![Employee Management](assets/employee-management.png) -->
 
-**[ Add Employee Management Screenshot Here ]**
+![Employee Management](assets/employee-management.png)
 
 ### 3. Attendance Management
 
 <!-- Replace this placeholder with: ![Attendance Management](assets/attendance.png) -->
 
-**[ Add Attendance Screenshot Here ]**
+![Attendance Management](assets/attendance.png)
 
 ### 4. Leave Management
 
 <!-- Replace this placeholder with: ![Leave Management](assets/leave-management.png) -->
 
-**[ Add Leave Management Screenshot Here ]**
+![Leave Management](assets/leave-management.png)
 
 ### 5. AI Workforce Insights
 
 <!-- Replace this placeholder with: ![AI Workforce Insights](assets/ai-workforce-insights.png) -->
 
-**[ Add AI Workforce Insights Screenshot Here ]**
+![AI Workforce Insights](assets/ai-workforce-insights.png)
 
 ### 6. AI HR Chatbot
 
 <!-- Replace this placeholder with: ![AI HR Chatbot](assets/ai-chatbot.png) -->
 
-**[ Add AI HR Chatbot Screenshot Here ]**
+![AI HR Chatbot](assets/ai-chatbot.png)
 
 ---
 
