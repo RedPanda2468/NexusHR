@@ -8,7 +8,6 @@ The project combines a **Spring Boot REST API**, a **React and TypeScript fronte
 
 ## 📸 Project Screenshots
 
-> Replace the placeholders below with screenshots of your running application. Save images in the `assets/` folder and use the filenames shown.
 
 ### 1. Dashboard
 
