@@ -14,43 +14,33 @@ The project combines a **Spring Boot REST API**, a **React and TypeScript fronte
 
 <!-- Replace this placeholder with: ![NexusHR Dashboard](assets/dashboard.png) -->
 
-![NexusHR Dashboard](<img width="1897" height="1152" alt="image" src="https://github.com/user-attachments/assets/64c72449-cef0-4f48-b77e-6f3834719e2f" />
-)
+![NexusHR Dashboard](assets/dashboard.png)
 
 ### 2. Employee Management
 
 <!-- Replace this placeholder with: ![Employee Management](assets/employee-management.png) -->
 
-![Employee Management](<img width="1612" height="872" alt="image" src="https://github.com/user-attachments/assets/51ff10c6-61f8-4d77-85ec-fd8b1ce8278f" />
-)
-
+![Employee Management](assets/employee-management.png)
 ### 3. Attendance Management
 
 <!-- Replace this placeholder with: ![Attendance Management](assets/attendance.png) -->
 
-![Attendance Management](<img width="1553" height="1202" alt="image" src="https://github.com/user-attachments/assets/b52c94c3-e723-42fb-87f9-47ac2f723abd" />
-)
-
+![Attendance Management](assets/attendance.png)
 ### 4. Leave Management
 
 <!-- Replace this placeholder with: ![Leave Management](assets/leave-management.png) -->
 
-![Leave Management](<img width="1565" height="1043" alt="image" src="https://github.com/user-attachments/assets/d70fdf8f-3fe0-4b5e-867c-dac57622e266" />
-)
-
+![Leave Management](assets/leave-management.png)
 ### 5. AI Workforce Insights
 
 <!-- Replace this placeholder with: ![AI Workforce Insights](assets/ai-workforce-insights.png) -->
 
-![AI Workforce Insights](<img width="1571" height="1962" alt="image" src="https://github.com/user-attachments/assets/27230977-5333-40ba-a20e-e6eb3d308d8c" />
-)
-
+![AI Workforce Insights](assets/ai-workforce-insights.png)
 ### 6. AI HR Chatbot
 
 <!-- Replace this placeholder with: ![AI HR Chatbot](assets/ai-chatbot.png) -->
 
-![AI HR Chatbot](<img width="1577" height="1195" alt="image" src="https://github.com/user-attachments/assets/fd8bf05c-ab96-402a-af1f-953bba07c9d6" />
-)
+![AI HR Chatbot](assets/ai-chatbot.png)
 
 ---
 
