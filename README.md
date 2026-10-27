@@ -290,3 +290,6 @@ $bytes = New-Object byte[] 32; $rng = [System.Security.Cryptography.RandomNumber
 
 
 And then do: mvn spring-boot:run
+
+Email: admin@nexushr.local
+Password: Demo123456!A
