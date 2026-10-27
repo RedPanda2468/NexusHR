@@ -286,10 +286,7 @@ NexusHR aims to demonstrate how modern web technologies, secure backend APIs, re
 
 
 Note: if backend fails to load even from correct folder first run this in powershell in vscode: 
-$bytes = New-Object byte[] 32
-$rng = [System.Security.Cryptography.RandomNumberGenerator]::Create()
-$rng.GetBytes($bytes)
-$env:JWT_SECRET = [Convert]::ToBase64String($bytes)
-$rng.Dispose()
+$bytes = New-Object byte[] 32; $rng = [System.Security.Cryptography.RandomNumberGenerator]::Create(); $rng.GetBytes($bytes); $env:JWT_SECRET = [Convert]::ToBase64String($bytes); $rng.Dispose()
+
 
 And then do: mvn spring-boot:run
